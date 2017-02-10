@@ -12,15 +12,15 @@
 * 其他命令                
 	1、ls (作用：查看当前文件夹里有什么)  
 	2、git add 要添加的内容文件或文件夹  
-    * 例子： git add search.md  添加了一个.md文件
+    * 例子： git add search.md  添加了一个.md文件  
 	3、git rm 要删除的文件或文件夹  
     * 例子：git rm readme.md  删除了readme.md文件  
 	4、git status (作用：查看当前仓库内文件状态)  
 	5、git log (作用：打印出仓储中的所有的提交)  
-	6、 git show 提交的编号  （作用：打印单独的一条的提交记录内容）
+	6、 git show 提交的编号  （作用：打印单独的一条的提交记录内容  
 	7、 vim （作用：进入vim编辑器中编辑内容)  
 	
-**注意：**Administrator@P5QCAPMFWNKEEMS MINGW64 /f/test/xuexiziliao (master)在git编辑中，一定要看到（master）才意味着这是一个和github匹配的仓库
+**注意：**Administrator@P5QCAPMFWNKEEMS MINGW64 /f/test/xuexiziliao (master)在git编辑中，一定要看到（master）才意味着这是一个和github匹配的仓库  
 **注意：**我们复制的内容或命令，一定要shift+insert才能粘贴到命令上；
 	
 ######git工具中用，进入vim编辑器中编辑内容后，先按ESC键再按英文的冒号加wq（:+wq)保存并推出vim编辑器；（":!q"）不保存退出  
